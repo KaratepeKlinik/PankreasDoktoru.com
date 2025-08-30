@@ -22,7 +22,7 @@
   <a href="https://pankreasdoktoru.com/pankreas-cerrahisi/" rel="noopener noreferrer">
     <img alt="Pankreas Cerrahisi" src="https://img.shields.io/badge/Pankreas-Cerrahisi-blue">
   </a>
-  <a href="https://pankreasdoktoru.com/pankreas-kanseri-tedavi/" rel="noopener noreferrer">
+  <a href="https://pankreasdoktoru.com/pankreas-kanseri" rel="noopener noreferrer">
     <img alt="Pankreas Kanseri Tedavisi" src="https://img.shields.io/badge/Pankreas%20Kanseri-Tedavi-red">
   </a>
   <a href="https://pankreasdoktoru.com/pankreas-yetmezligi/" rel="noopener noreferrer">
