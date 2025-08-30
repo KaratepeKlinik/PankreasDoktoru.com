@@ -39,9 +39,10 @@
 <h2>Uzmanlık Alanları</h2>
 <ul>
   <li><a href="https://pankreasdoktoru.com/pankreas-kanseri-tedavi/" rel="noopener noreferrer">Pankreas kanseri cerrahisi</a> (Whipple, distal/total pankreatektomi)</li>
-  <li><a href="https://pankreasdoktoru.com/pankreas-kistleri/" rel="noopener noreferrer">Pankreas kist ve tümör cerrahisi</a></li>
+  <li><a href="https://pankreasdoktoru.com/pankreas-kisti-nedir-tedavisi/" rel="noopener noreferrer">Pankreas kist ve tümör cerrahisi</a></li>
   <li><a href="https://pankreasdoktoru.com/pankreas-yetmezligi/" rel="noopener noreferrer">Pankreas yetmezliği tedavileri</a></li>
-  <li><a href="https://pankreasdoktoru.com/endoskopik-girisimler/" rel="noopener noreferrer">Endoskopik girişimler</a> (ERCP, stentleme vb.)</li>
+  <li><a href="https://pankreasdoktoru.com/pankreas-kanseri-teshisi-sonrasi-yapilmasi-gerekenler/" rel="noopener noreferrer">Pankreas Kanseri Teşhisi Sonrası Yapılması Gerekenler
+</li>
 </ul>
 
 <h2>Neden Pankreas Doktoru?</h2>
